@@ -11,5 +11,3 @@ app.listen(port, (err)=>{
     if(err) throw err;
     console.log(`LIstening on port: ${port}.`);
 });
-
-// Hello World
